@@ -15,15 +15,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "gui.py",
-			"settings":
-			{
-				"buffer_size": 6305,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "Packages/Python/Python.sublime-build",
 	"build_system_choices":
@@ -78,9 +69,9 @@
 	],
 	"file_history":
 	[
+		"/C/gitRepos/x4-xml-dea-converter-py-gui/gui.py",
 		"/C/gitRepos/x4-xml-dea-converter-py-gui/gui_support.py",
 		"/C/Users/JVedder/Desktop/arty.pyw",
-		"/C/gitRepos/x4-xml-dea-converter-py-gui/gui.py",
 		"/C/gitRepos/x4-xml-dea-converter-py-gui/gui.py.bak1",
 		"/C/Steam/steamapps/common/X4 Foundations/xmlexport.bat",
 		"/C/Steam/steamapps/common/X4 Foundations/scourse/assets/props/WeaponSystems/guided/turret_arg_m_guided_01_mk1.xml",
@@ -308,39 +299,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "gui.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6305,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6236,
-								6236
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1638.4,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
